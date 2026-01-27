@@ -38,7 +38,8 @@ This project analyzes the Electric Vehicle (EV) market in India to support AtliQ
 Download the `EV_project challenge.pbix` file and open it using Power BI Desktop.
 
 ## 📸 Dashboard Preview
-Screenshots/Growth Trends & Projections.png
+![Growth Trends & Projections](Screenshots/Growth Trends & Projections.png)
+
 
 ---
 If you like this project, feel free to connect with me on LinkedIn.
